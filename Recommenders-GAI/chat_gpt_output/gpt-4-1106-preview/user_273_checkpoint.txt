@@ -1,0 +1,54 @@
+Based on the user's preferences and ratings for various movies, here are the top 50 movie recommendations for user 273, focusing on films released before September 2018 that align with their tastes:
+
+1. **Shawshank Redemption, The (1994)**
+2. **Goodfellas (1990)**
+3. **Schindler's List (1993)**
+4. **Forrest Gump (1994)**
+5. **Fight Club (1999)**
+6. **Matrix, The (1999)**
+7. **Saving Private Ryan (1998)**
+8. **American Beauty (1999)**
+9. **Braveheart (1995)**
+10. **Truman Show, The (1998)**
+11. **L.A. Confidential (1997)**
+12. **Se7en (1995)**
+13. **Usual Suspects, The (1995)**
+14. **Heat (1995)**
+15. **Groundhog Day (1993)**
+16. **Sixth Sense, The (1999)**
+17. **Gladiator (2000)**
+18. **Memento (2000)**
+19. **American History X (1998)**
+20. **Jurassic Park (1993)** (User rated 4/5)
+21. **Toy Story 2 (1999)**
+22. **Toy Story 3 (2010)**
+23. **Inception (2010)**
+24. **Dark Knight, The (2008)**
+25. **Catch Me If You Can (2002)**
+26. **Big Lebowski, The (1998)**
+27. **Men in Black (1997)**
+28. **Shakespeare in Love (1998)**
+29. **Good Will Hunting (1997)**
+30. **Titanic (1997)**
+31. **Pleasantville (1998)**
+32. **Iron Giant, The (1999)**
+33. **Galaxy Quest (1999)**
+34. **Office Space (1999)**
+35. **Magnolia (1999)**
+36. **Boogie Nights (1997)**
+37. **Rushmore (1998)**
+38. **Being John Malkovich (1999)**
+39. **Eternal Sunshine of the Spotless Mind (2004)**
+40. **Finding Nemo (2003)**
+41. **Monsters, Inc. (2001)**
+42. **Amélie (2001)**
+43. **Royal Tenenbaums, The (2001)**
+44. **Moulin Rouge! (2001)**
+45. **Ocean's Eleven (2001)**
+46. **Shrek (2001)**
+47. **Lord of the Rings: The Fellowship of the Ring (2001)**
+48. **Lord of the Rings: The Two Towers (2002)**
+49. **Lord of the Rings: The Return of the King (2003)**
+50. **Pirates of the Caribbean: The Curse of the Black Pearl (2003)**
+
+These recommendations are based on the user's high ratings for a mix of comedy, drama, and action films, as well as their appreciation for both critically acclaimed and popular movies from the 1990s and early 2000s.

@@ -1,0 +1,54 @@
+Based on the user's preferences for action, drama, science fiction, and classic films, here are the top 50 movie recommendations:
+
+1. Pulp Fiction (1994)
+2. Goodfellas (1990)
+3. Fight Club (1999)
+4. The Shawshank Redemption (1994)
+5. The Dark Knight (2008)
+6. Inception (2010)
+7. The Matrix Reloaded (2003)
+8. Blade Runner (1982)
+9. Raiders of the Lost Ark (Indiana Jones) (1981)
+10. Die Hard (1988)
+11. Memento (2000)
+12. Se7en (1995)
+13. The Silence of the Lambs (1991)
+14. L.A. Confidential (1997)
+15. Casino (1995)
+16. The Usual Suspects (1995)
+17. Heat (1995) - if the user wants to rewatch
+18. The Departed (2006)
+19. No Country for Old Men (2007)
+20. Mad Max: Fury Road (2015)
+21. The Bourne Identity (2002)
+22. The Prestige (2006)
+23. The Sixth Sense (1999)
+24. American History X (1998)
+25. The Godfather: Part III (1990)
+26. Scarface (1983)
+27. Apocalypse Now (1979)
+28. Taxi Driver (1976)
+29. The Green Mile (1999)
+30. Braveheart (1995)
+31. Gladiator (2000) - if the user wants to reconsider
+32. The Terminator (1984) - if the user wants to rewatch
+33. Aliens (1986) - if the user wants to rewatch
+34. The Empire Strikes Back (1980) - if the user wants to rewatch
+35. Return of the Jedi (1983) - if the user wants to rewatch
+36. Jurassic Park (1993) - if the user wants to rewatch
+37. Terminator 2: Judgment Day (1991) - if the user wants to rewatch
+38. The Godfather (1972) - if the user wants to rewatch
+39. The Godfather: Part II (1974) - if the user wants to rewatch
+40. Saving Private Ryan (1998) - if the user wants to rewatch
+41. Schindler's List (1993)
+42. Forrest Gump (1994)
+43. The Big Lebowski (1998)
+44. The Hunt for Red October (1990) - if the user wants to rewatch
+45. The French Connection (1971)
+46. Platoon (1986)
+47. The Bridge on the River Kwai (1957)
+48. Lawrence of Arabia (1962)
+49. The Great Escape (1963)
+50. Chinatown (1974)
+
+These recommendations are based on the user's high ratings for similar genres and classic films. The list includes a mix of rewatchable favorites (as indicated) and new suggestions that align with the user's demonstrated preferences.

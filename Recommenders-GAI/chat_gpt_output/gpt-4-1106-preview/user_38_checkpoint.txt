@@ -1,0 +1,54 @@
+Based on the user's ratings and preferences for movies from the mid-1990s, with a particular interest in drama, action, and some classic films, here are the top 50 recommendations:
+
+1. Good Will Hunting (1997)
+2. Saving Private Ryan (1998)
+3. L.A. Confidential (1997)
+4. Titanic (1997)
+5. The Green Mile (1999)
+6. As Good as It Gets (1997)
+7. A Few Good Men (1992)
+8. Heat (1995)
+9. Casino (1995)
+10. Jerry Maguire (1996)
+11. Fargo (1996)
+12. The English Patient (1996)
+13. Seven (1995)
+14. The Sixth Sense (1999)
+15. Fight Club (1999)
+16. The Matrix (1999)
+17. American Beauty (1999)
+18. Gladiator (2000)
+19. The Truman Show (1998)
+20. Goodfellas (1990)
+21. Unforgiven (1992)
+22. The Fugitive (1993) - since the user rated it highly
+23. Schindler's List (1993) - since the user rated it highly
+24. Forrest Gump (1994) - since the user rated it moderately
+25. Braveheart (1995) - since the user rated it highly
+26. Apollo 13 (1995) - since the user rated it highly
+27. The Shawshank Redemption (1994) - since the user rated it highly
+28. Pulp Fiction (1994) - since the user rated it moderately
+29. The Usual Suspects (1995) - since the user rated it highly
+30. Heat (1995)
+31. Léon: The Professional (1994)
+32. True Lies (1994) - since the user rated it moderately
+33. Die Hard: With a Vengeance (1995)
+34. GoldenEye (1995)
+35. The Hunt for Red October (1990)
+36. Clear and Present Danger (1994)
+37. The Rock (1996)
+38. Independence Day (1996)
+39. Men in Black (1997)
+40. Face/Off (1997)
+41. Air Force One (1997)
+42. The Fifth Element (1997)
+43. Armageddon (1998)
+44. Enemy of the State (1998)
+45. The Patriot (2000)
+46. Cast Away (2000)
+47. The Perfect Storm (2000)
+48. Traffic (2000)
+49. Crouching Tiger, Hidden Dragon (2000)
+50. A Beautiful Mind (2001)
+
+These recommendations are based on the user's apparent preferences for critically acclaimed films, dramas with strong narratives, and action movies from the 1990s. The list includes a mix of genres to cater to the user's varied tastes while focusing on the time period and types of movies they have shown a preference for.
