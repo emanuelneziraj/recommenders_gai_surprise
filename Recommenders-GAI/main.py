@@ -3,7 +3,7 @@ import pandas as pd
 import os
 import configparser
 
-def send_message_to_chat_gpt(token):
+def send_message_to_chat_gpt(model, token):
     # Retrieve ratings and movies information
     ratings = pd.read_csv('../ml-latest-small/ratings.csv', sep=',',
                           header=0, names=['userId', 'movieId', 'rating', 'timestamp'],
@@ -15,9 +15,9 @@ def send_message_to_chat_gpt(token):
     ratings = merge_titles_with_movies(ratings, movies)
 
     # Initialize variable for the request
-    gAI = OpenAI('gpt-4-turbo', token) #gpt-4-turbo or gpt-3.5-turbo
+    gAI = OpenAI(model, token)
 
-    checkpoint_dir = 'chat_gpt_output/gpt-4-1106-preview/'
+    checkpoint_dir = f'chat_gpt_output/{model}/'
 
     for user in ratings['userId'].unique():
         print("Requesting recommendations for user {}".format(user))
@@ -54,7 +54,8 @@ def main():
     config = configparser.ConfigParser()
     config.read('config.ini')
     token = config['DEFAULT']['GPT_TOKEN']
-    send_message_to_chat_gpt(token)
+    model = "gpt-3.5-turbo" #gpt-3.5-turbo or gpt-4-turbo
+    send_message_to_chat_gpt(model, token)
 
 if __name__ == '__main__':
     main()

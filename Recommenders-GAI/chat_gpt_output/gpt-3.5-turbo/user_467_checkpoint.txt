@@ -1,0 +1,21 @@
+Based on the user's preferences, here are the top 50 movie recommendations before September 2018:
+
+1. Schindler's List (1993)
+2. The English Patient (1996)
+3. Life Is Beautiful (La Vita è bella) (1997)
+4. Das Boot (The Boat) (1981)
+5. Shine (1996)
+6. Titanic (1997)
+7. Saving Private Ryan (1998)
+8. Richard III (1995)
+9. The Postman (Il Postino) (1994)
+10. Le Colonel Chabert (1994)
+11. Ridicule (1996)
+12. The Last of the Mohicans (1992)
+13. The Siege (1998)
+14. Little Voice (1998)
+15. The Harmonists (1997)
+16. The Prince of Egypt (1998)
+17. Ever After: A Cinderella Story (1998)
+
+Please note that the recommendations are based on the user's ratings and preferences for certain movies.

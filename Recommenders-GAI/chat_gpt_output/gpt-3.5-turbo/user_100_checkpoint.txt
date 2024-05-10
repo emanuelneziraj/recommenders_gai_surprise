@@ -1,0 +1,54 @@
+Here are the top 50 movie recommendations for user 100 based on their liked movies:
+
+1. **The Shawshank Redemption (1994)**
+2. **Pulp Fiction (1994)**
+3. **Forrest Gump (1994)**
+4. **The Silence of the Lambs (1991)**
+5. **The Usual Suspects (1995)**
+6. **Braveheart (1995)**
+7. **The Matrix (1999)**
+8. **Schindler's List (1993)**
+9. **Fight Club (1999)**
+10. **Good Will Hunting (1997)**
+11. **The Green Mile (1999)**
+12. **American Beauty (1999)**
+13. **The Sixth Sense (1999)**
+14. **The Truman Show (1998)**
+15. **The Fugitive (1993)**
+16. **The Lion King (1994)**
+17. **The Big Lebowski (1998)**
+18. **The Truman Show (1998)**
+19. **The Godfather (1972)**
+20. **The Godfather: Part II (1974)**
+21. **The Dark Knight (2008)**
+22. **The Lord of the Rings: The Fellowship of the Ring (2001)**
+23. **The Lord of the Rings: The Two Towers (2002)**
+24. **The Lord of the Rings: The Return of the King (2003)**
+25. **Gladiator (2000)**
+26. **Saving Private Ryan (1998)**
+27. **The Departed (2006)**
+28. **The Prestige (2006)**
+29. **Eternal Sunshine of the Spotless Mind (2004)**
+30. **Memento (2000)**
+31. **The Social Network (2010)**
+32. **Inception (2010)**
+33. **The Aviator (2004)**
+34. **A Beautiful Mind (2001)**
+35. **Catch Me If You Can (2002)**
+36. **The Terminal (2004)**
+37. **Spider-Man 2 (2004)**
+38. **Finding Nemo (2003)**
+39. **Pillow Talk (1959)**
+40. **Seven Brides for Seven Brothers (1954)**
+41. **Intolerable Cruelty (2003)**
+42. **Something's Gotta Give (2003)**
+43. **Gosford Park (2001)**
+44. **A Beautiful Mind (2001)**
+45. **Planet of the Apes (2001)**
+46. **Bridget Jones's Diary (2001)**
+47. **Moulin Rouge (2001)**
+48. **The Mexican (2001)**
+49. **An Officer and a Gentleman (1982)**
+50. **Chocolat (2000)**
+
+These recommendations are based on the user's liking for romantic, drama, comedy, and classic movies. Enjoy watching!

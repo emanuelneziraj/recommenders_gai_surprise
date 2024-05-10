@@ -12,17 +12,20 @@ def extract_movies_from_text(text):
             movies.append(movie)
     return movies
 
-
 def load_movie_recommendations(directory):
     user_movies = {}
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
             user_id = int(filename.split('_')[1])  # Extract user ID correctly
-            with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
+            filepath = os.path.join(directory, filename)
+            if os.stat(filepath).st_size == 0:  # Check if file is empty
+                continue  # Skip the empty file
+            with open(filepath, 'r', encoding='utf-8') as file:
                 text = file.read()
             movies = extract_movies_from_text(text)
             user_movies[user_id] = movies
     return user_movies
+
 
 
 def calculate_metrics_for_k(user_movies, actual_ratings, k):
@@ -56,7 +59,7 @@ def average_metrics(metrics):
 
     return average_precision, average_recall, average_f1
 # Path to the directory containing .txt files and the MovieLens dataset
-directory = 'chat_gpt_output/gpt-4-1106-preview/'
+directory = 'chat_gpt_output/gpt-3.5-turbo/'
 ratings_file = '../ml-latest-small/ratings.csv'
 movies_file = '../ml-latest-small/movies.csv'
 

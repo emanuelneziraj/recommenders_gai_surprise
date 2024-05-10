@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 movie recommendations:
+
+1. **The Godfather (1972)**
+2. **Schindler's List (1993)**
+3. **The Shawshank Redemption (1994)**
+4. **Pulp Fiction (1994)**
+5. **Forrest Gump (1994)**
+6. **The Silence of the Lambs (1991)**
+7. **Goodfellas (1990)**
+8. **The Usual Suspects (1995)**
+9. **Braveheart (1995)**
+10. **The Matrix (1999)**
+11. **Fight Club (1999)**
+12. **American History X (1998)**
+13. **The Green Mile (1999)**
+14. **The Sixth Sense (1999)**
+15. **Saving Private Ryan (1998)**
+16. **The Truman Show (1998)**
+17. **The Big Lebowski (1998)**
+18. **American Beauty (1999)**
+19. **The Iron Giant (1999)**
+20. **Magnolia (1999)**
+21. **The Insider (1999)**
+22. **Being John Malkovich (1999)**
+23. **The Straight Story (1999)**
+24. **The Cider House Rules (1999)**
+25. **The Talented Mr. Ripley (1999)**
+26. **The Virgin Suicides (1999)**
+27. **The Beach (2000)**
+28. **Requiem for a Dream (2000)**
+29. **Gladiator (2000)**
+30. **Memento (2000)**
+31. **Snatch (2000)**
+32. **Amores Perros (2000)**
+33. **Traffic (2000)**
+34. **Crouching Tiger, Hidden Dragon (2000)**
+35. **Almost Famous (2000)**
+36. **Billy Elliot (2000)**
+37. **Chocolat (2000)**
+38. **Erin Brockovich (2000)**
+39. **High Fidelity (2000)**
+40. **O Brother, Where Art Thou? (2000)**
+41. **Requiem for a Dream (2000)**
+42. **Shadow of the Vampire (2000)**
+43. **The Gift (2000)**
+44. **The Family Man (2000)**
+45. **Miss Congeniality (2000)**
+46. **Traffic (2000)**
+47. **Unbreakable (2000)**
+48. **Crouching Tiger, Hidden Dragon (2000)**
+49. **Planes, Trains & Automobiles (1987)**
+50. **The Living Daylights (1987)**
+
+These recommendations are based on the user's liking for classic and critically acclaimed movies, as well as some popular and highly rated films from the late 90s and early 2000s.

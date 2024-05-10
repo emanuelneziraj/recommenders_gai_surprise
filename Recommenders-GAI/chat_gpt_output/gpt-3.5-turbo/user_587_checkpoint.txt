@@ -1,0 +1,54 @@
+Based on the user's preferences, here are the top 50 movie recommendations before September 2018:
+
+1. **The Shawshank Redemption (1994)**
+2. **Forrest Gump (1994)**
+3. **Pulp Fiction (1994)**
+4. **The Silence of the Lambs (1991)**
+5. **Schindler's List (1993)**
+6. **The Usual Suspects (1995)**
+7. **Braveheart (1995)**
+8. **The Matrix (1999)**
+9. **Goodfellas (1990)**
+10. **The Green Mile (1999)**
+11. **The Sixth Sense (1999)**
+12. **American History X (1998)**
+13. **The Truman Show (1998)**
+14. **Saving Private Ryan (1998)**
+15. **The Lion King (1994)**
+16. **The Big Lebowski (1998)**
+17. **Fight Club (1999)**
+18. **The Godfather (1972)**
+19. **The Godfather: Part II (1974)**
+20. **The Godfather: Part III (1990)**
+21. **The Terminator (1984)**
+22. **Terminator 2: Judgment Day (1991)**
+23. **Jurassic Park (1993)**
+24. **The Shining (1980)**
+25. **A Clockwork Orange (1971)**
+26. **The Exorcist (1973)**
+27. **The Graduate (1967)**
+28. **The Breakfast Club (1985)**
+29. **The Princess Bride (1987)**
+30. **E.T. the Extra-Terrestrial (1982)**
+31. **Blade Runner (1982)**
+32. **The Breakfast Club (1985)**
+33. **The Princess Bride (1987)**
+34. **E.T. the Extra-Terrestrial (1982)**
+35. **Blade Runner (1982)**
+36. **The Wizard of Oz (1939)**
+37. **Gone with the Wind (1939)**
+38. **Casablanca (1942)**
+39. **Citizen Kane (1941)**
+40. **Psycho (1960)**
+41. **Rear Window (1954)**
+42. **North by Northwest (1959)**
+43. **Vertigo (1958)**
+44. **Some Like It Hot (1959)**
+45. **12 Angry Men (1957)**
+46. **Sunset Boulevard (1950)**
+47. **Singin' in the Rain (1952)**
+48. **On the Waterfront (1954)**
+49. **Rebel Without a Cause (1955)**
+50. **Roman Holiday (1953)**
+
+These recommendations are based on the user's ratings and preferences for certain movies. Enjoy watching!
