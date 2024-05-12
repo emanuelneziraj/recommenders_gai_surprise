@@ -1,0 +1,9 @@
+Average Metrics for KNN @ 10: {'Precision': 0.7695, 'Recall': 0.5666, 'F1': 0.6525}
+Average Metrics for KNN @ 20: {'Precision': 0.7579, 'Recall': 0.6657, 'F1': 0.7087}
+Average Metrics for KNN @ 50: {'Precision': 0.7470, 'Recall': 0.7366, 'F1': 0.7417}
+Average Metrics for SVD @ 10: {'Precision': 0.8037, 'Recall': 0.5319, 'F1': 0.6401}
+Average Metrics for SVD @ 20: {'Precision': 0.7918, 'Recall': 0.6245, 'F1': 0.6982}
+Average Metrics for SVD @ 50: {'Precision': 0.7826, 'Recall': 0.6938, 'F1': 0.7355}
+Average Metrics for NMF @ 10: {'Precision': 0.7771, 'Recall': 0.5152, 'F1': 0.6196}
+Average Metrics for NMF @ 20: {'Precision': 0.7693, 'Recall': 0.6024, 'F1': 0.6756}
+Average Metrics for NMF @ 50: {'Precision': 0.7620, 'Recall': 0.6661, 'F1': 0.7108}

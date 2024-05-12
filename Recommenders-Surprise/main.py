@@ -73,7 +73,15 @@ def calculate_averages(model_name):
 
 
 # Output of average values
-for model in algorithms:
-    averages = calculate_averages(model)
-    for k in [10, 20, 50]:
-        print(f'Average values for {model} @ {k}: {averages[k]}')
+# Output of average values with four decimal places
+output_file_path_2 = "metrics_results.txt"
+with open(output_file_path_2, 'w') as file:
+    for model in algorithms:
+        averages = calculate_averages(model)
+        for k in [10, 20, 50]:
+            precision = averages[k]['Precision']
+            recall = averages[k]['Recall']
+            f1 = averages[k]['F1']
+            file.write(f"Average Metrics for {model} @ {k}: {{'Precision': {precision:.4f}, 'Recall': {recall:.4f}, 'F1': {f1:.4f}}}\n")
+            print(f"Average Metrics for {model} @ {k}: {{'Precision': {precision:.4f}, 'Recall': {recall:.4f}, 'F1': {f1:.4f}}}")
+

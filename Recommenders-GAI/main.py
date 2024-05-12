@@ -1,3 +1,4 @@
+from evaluate import evaluate
 from open_ai_model import OpenAI
 import pandas as pd
 import os
@@ -56,6 +57,8 @@ def main():
     token = config['DEFAULT']['GPT_TOKEN']
     model = "gpt-3.5-turbo" #gpt-3.5-turbo or gpt-4-turbo
     send_message_to_chat_gpt(model, token)
+    evaluate(model)
+
 
 if __name__ == '__main__':
     main()
